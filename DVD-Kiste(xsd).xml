@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+	<filme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DVD-Kiste.xsd">
+		<film kategorie="Action">
+			<name>Stirb Langsam 4.0</name>
+			<regisseur>Len Wiseman</regisseur>
+			<hauptdarsteller>Bruce Willis</hauptdarsteller>
+			<herkunftsland>USA</herkunftsland>
+			<jahr>2007</jahr>
+			<kurzbeschreibung>Ein Routineauftrag artet für den New Yorker Cop 
+							  John McClane (Bruce Willis) zu einem möglichen Ende der Zivilisation aus.
+			</kurzbeschreibung>
+			<vorhanden>2</vorhanden>
+			<ausgeliehen>1</ausgeliehen>
+			<preis>12.34</preis>
+			<sprache>Deutsch</sprache>
+			<nummer>GE-109951</nummer>
+		</film>
+		<film kategorie="Komödie">
+			<name>Ritter Jamal</name>
+			<regisseur>Gil Junger</regisseur>
+			<hauptdarsteller>Martin Lawrence</hauptdarsteller>
+			<herkunftsland>USA</herkunftsland>
+			<jahr>2002</jahr>
+			<kurzbeschreibung>Als Jamal Walker (Martin Lawrence), ein wenig ambitionierter Angestellter 
+							  eines Mittelalter-Freizeitparks beim Reinigen des künstlichen Burggrabens
+							  ins Wasser fällt, taucht er im England des 14. Jahrhunderts wieder auf.
+			</kurzbeschreibung>
+			<vorhanden>2</vorhanden>
+			<ausgeliehen>1</ausgeliehen>
+			<preis>12.34</preis>
+			<sprache>Deutsch</sprache>
+			<nummer>GE-109951</nummer>
+		</film>
+		<film kategorie="Lovestory">
+			<name>Manhatten Love Story</name>
+			<regisseur>Wayne Wang</regisseur>
+			<hauptdarsteller>Jennifer Lopez</hauptdarsteller>
+			<herkunftsland>USA</herkunftsland>
+			<jahr>2003</jahr>
+			<kurzbeschreibung>Marisa Ventura (Jennifer Lopez) ist in der New Yorker Bronx aufgewachsen und froh, 
+							  dass sie in einem Nobelhotel als Zimmermädchen ihr Geld verdienen kann.
+			</kurzbeschreibung>
+			<vorhanden>2</vorhanden>
+			<ausgeliehen>1</ausgeliehen>
+			<preis>12.34</preis>
+			<sprache>Deutsch</sprache>
+			<nummer>GE-109951</nummer>
+		</film>
+		<film kategorie="Thriller">
+			<name>Fletchers Visionen</name>
+			<regisseur>Richard Donner</regisseur>
+			<hauptdarsteller>Mel Gibson</hauptdarsteller>
+			<herkunftsland>USA</herkunftsland>
+			<jahr>1997</jahr>
+			<kurzbeschreibung>Jerry Fletcher (Mel Gibson) verdient sich sein Geld als Taxifahrer in New York, 
+							  doch seine Leidenschaft ist eine andere:
+			</kurzbeschreibung>
+			<vorhanden>2</vorhanden>
+			<ausgeliehen>1</ausgeliehen>
+			<preis>12.34</preis>
+			<sprache>Deutsch</sprache>
+			<nummer>GE-109951</nummer>
+		</film>
+	</filme>	
